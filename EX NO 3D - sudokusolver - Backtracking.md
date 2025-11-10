@@ -22,6 +22,9 @@ For example:
 
 ## Program:
 ```
+Developed by: NISHA D
+Register Number: 212223230143
+
 import java.util.Scanner;
 
 public class SudokuSolver {
