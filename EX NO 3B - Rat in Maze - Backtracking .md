@@ -1,4 +1,3 @@
-
 # EX 3B Rat in Maze- Backtracking 
 ## DATE: 18-09-2025
 ## AIM:
@@ -29,6 +28,9 @@ Explanation: One possible way is : left -> down -> left -> down -> right -> down
 
 ## Program:
 ```
+Developed by: NISHA D 
+Register Number: 212223230143
+
 import java.util.*;
 
 public class Main {
